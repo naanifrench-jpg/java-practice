@@ -1,2 +1,2 @@
 # java-practice
-just me practicing with java. 
+hello! this is just me practicing with java and getting used to using github!
