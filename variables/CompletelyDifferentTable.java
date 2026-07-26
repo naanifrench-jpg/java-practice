@@ -10,7 +10,7 @@ public class CompletelyDifferentTable {
 
         System.out.println("This program prints a multiplication table for any number you input.\nInput number: ");
 
-        int number = Integer.parseInt(scanner.nextLine());
+        int number = scanner.nextInt();
 
         System.out.print(number);
         System.out.print(" x 1 = ");
